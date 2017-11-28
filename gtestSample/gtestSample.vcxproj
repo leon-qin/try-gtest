@@ -74,7 +74,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\CommonThirdParty\googletest-master\googletest\codegear\gtest_all.cc" />
+    <ClCompile Include="..\googletest-master\googletest\src\gtest-all.cc" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SampleTests.cpp" />
   </ItemGroup>
