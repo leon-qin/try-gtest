@@ -6,7 +6,7 @@ TEST(SampleTests, ArithmeticAdd)
     int a = 10;
     int b = 2;
 
-    ASSERT_EQ(12, a + b);
+    ASSERT_EQ(10, a + b);
 }
 
 TEST(SampleTests, ArithmeticSub)
